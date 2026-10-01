@@ -23,12 +23,12 @@
 ```python
 class MdTarikurRahman:
     def __init__(self):
-        self.name = Md. Tarikur Rahman
-        self.title = Programmer
-        self.identity = Programmer, CTF Player
-        self.focus = Programming, CTF, Cybersecurity
-        self.github = github.com/Tarikur-Rahman
-        self.linkedin = linkedin.com/in/md-tarikur-rahman-2522b2222
+        self.name = "Md. Tarikur Rahman"
+        self.title = "Programmer"
+        self.identity = ["Programmer", "CTF Player"]
+        self.focus = ["Programming", "CTF", "Cybersecurity"]
+        self.github = "github.com/Tarikur-Rahman"
+        self.linkedin = "linkedin.com/in/md-tarikur-rahman-2522b2222"
 
     def say_hi(self):
         print("Thanks for stopping by — build, test, research, repeat.")
