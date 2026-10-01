@@ -1,14 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Md. Tarikur Rahman — Cybersecurity Researcher & Programmer" width="100%">
+  <img src="./dark.svg" alt="Md. Tarikur Rahman — Programmer" width="100%">
 </picture>
 
 <div align="center">
 
-### `Programmer || CTF Player || Researcher`
+### `Programmer || CTF Player`
 
-**Cybersecurity Researcher & Programmer**
+**Programmer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tarikur--Rahman-181717?style=for-the-badge&logo=github)](https://github.com/Tarikur-Rahman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md._Tarikur_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tarikur-rahman-2522b2222/)
@@ -23,9 +23,6 @@
 
 - 💻 **Programming** — build, experiment, and turn ideas into working software.
 - 🏁 **CTF** — sharpen practical security thinking through challenge solving.
-- 🔬 **Research** — explore technical problems with an evidence-driven mindset.
-- 🛡️ **Cybersecurity** — focus on security-oriented systems, analysis, and learning.
-
 ---
 
 ## 🧑‍💻 About Me
@@ -34,9 +31,9 @@
 class MdTarikurRahman:
     def __init__(self):
         self.name = "Md. Tarikur Rahman"
-        self.title = "Cybersecurity Researcher & Programmer"
-        self.identity = ["Programmer", "CTF Player", "Researcher"]
-        self.focus = ["Programming", "CTF", "Research", "Cybersecurity"]
+        self.title = "Programmer"
+        self.identity = ["Programmer", "CTF Player"]
+        self.focus = ["Programming", "CTF", "Cybersecurity"]
         self.github = "github.com/Tarikur-Rahman"
         self.linkedin = "linkedin.com/in/md-tarikur-rahman-2522b2222"
 
