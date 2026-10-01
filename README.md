@@ -2,7 +2,6 @@
 
 ### `Programmer || CTF Player`
 
-**Programmer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tarikur--Rahman-181717?style=for-the-badge&logo=github)](https://github.com/Tarikur-Rahman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md._Tarikur_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tarikur-rahman-2522b2222/)
