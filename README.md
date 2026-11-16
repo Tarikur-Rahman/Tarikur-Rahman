@@ -50,10 +50,18 @@ class MdTarikurRahman:
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tarikur-Rahman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Md. Tarikur Rahman's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikur-Rahman&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165"
+       src="https://github-stats-extended.vercel.app/api?username=Tarikur-Rahman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+       alt="Md. Tarikur Rahman's GitHub stats" />
+
+  <img height="165"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tarikur-Rahman&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Most used languages" />
+
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Tarikur-Rahman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+  <img src="https://streak-stats.demolab.com?user=Tarikur-Rahman&theme=tokyonight&hide_border=true"
+       alt="GitHub streak" />
 </div>
 
 ---
